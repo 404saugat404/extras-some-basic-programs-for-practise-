@@ -16,7 +16,10 @@ def two_sum(list,target):
         dict[j]=i
         if s in dict:
             print(f"{dict[s],i}") 
+
+    print(dict)
         
         
 l=[1,2,3,4]
-two_sum(l,6)
+two_sum(l,7)
+
