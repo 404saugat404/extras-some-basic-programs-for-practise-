@@ -12,11 +12,11 @@ def no_repeat(s):
         else:
             length=max(length,right-left+1)
 
-            
+
 
 
 
 
 
         dictionary[char]=right
-
+    return length
