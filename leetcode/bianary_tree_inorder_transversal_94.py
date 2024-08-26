@@ -14,4 +14,3 @@ def inorder_transversal(root):
 
     return result
 
-root = [1,null,2,3]
