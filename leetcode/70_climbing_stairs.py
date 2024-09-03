@@ -12,6 +12,7 @@
 # print(value.stairs(3))
          
 # this is the easiest way, but tc is O(2**n)
+#sc is O(n)
 
 class solutions:
     def stairs(self,n):
@@ -33,3 +34,6 @@ class solutions:
 
 value=solutions()
 print(value.stairs(5))
+
+#the tc for this soln in O(n)
+#sc is O(n)
