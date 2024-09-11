@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isSameTree(self, p, q:):
+    def isSameTree(self, p, q):
         if not p and not q: #if both null, return true
             return True
 
