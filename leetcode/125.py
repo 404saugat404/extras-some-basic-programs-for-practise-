@@ -10,7 +10,7 @@ class solutions:
     
 
 
-abc=solutions
+# abc=solutions
 
-value="race a car"
-print(abc.valid_pal(value))
+# value="race a car"
+# print(abc.valid_pal(value))
