@@ -15,6 +15,7 @@ class son(father):
     def disp(self):
         print("child class instance method")
 
+
 s=son()
 
 # s.disp()
